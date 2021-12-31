@@ -1,0 +1,11 @@
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\bin\Debug\03_KomodoBadges.UI.exe.config
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\bin\Debug\03_KomodoBadges.UI.exe
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\bin\Debug\03_KomodoBadges.UI.pdb
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\bin\Debug\03_KomodoBadges.Repository.dll
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\bin\Debug\03_KomodoBadges.Repository.pdb
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\obj\Debug\03_KomodoBadges.UI.csproj.AssemblyReference.cache
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\obj\Debug\03_KomodoBadges.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\obj\Debug\03_KomodoBadges.UI.csproj.CoreCompileInputs.cache
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\obj\Debug\03_KomodoBadges.UI.csproj.CopyComplete
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\obj\Debug\03_KomodoBadges.UI.exe
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\03_KomodoBadges.UI\obj\Debug\03_KomodoBadges.UI.pdb

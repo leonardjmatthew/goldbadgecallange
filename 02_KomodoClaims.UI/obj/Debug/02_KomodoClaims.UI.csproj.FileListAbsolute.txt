@@ -1,0 +1,11 @@
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\bin\Debug\02_KomodoClaims.UI.exe.config
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\bin\Debug\02_KomodoClaims.UI.exe
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\bin\Debug\02_KomodoClaims.UI.pdb
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\bin\Debug\02_Komodo_Claims.dll
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\bin\Debug\02_Komodo_Claims.pdb
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\obj\Debug\02_KomodoClaims.UI.csproj.AssemblyReference.cache
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\obj\Debug\02_KomodoClaims.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\obj\Debug\02_KomodoClaims.UI.csproj.CoreCompileInputs.cache
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\obj\Debug\02_KomodoClaims.UI.csproj.CopyComplete
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\obj\Debug\02_KomodoClaims.UI.exe
+C:\Users\13173\Desktop\SD119\GoldBadgeChallenges\02_KomodoClaims.UI\obj\Debug\02_KomodoClaims.UI.pdb

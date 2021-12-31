@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cd70fc1-2a61-4ad3-885e-b9bab80729d0": {
+      "ProjectGuid": "1cd70fc1-2a61-4ad3-885e-b9bab80729d0",
+      "DisplayName": "01_KomodoCafe.Repository",
+      "ColorIndex": 0
+    },
+    "1d8095f0-df7a-4eb6-8378-300bb3f7e2bc": {
+      "ProjectGuid": "1d8095f0-df7a-4eb6-8378-300bb3f7e2bc",
+      "DisplayName": "01_KomodoCafe.UI",
+      "ColorIndex": 1
+    },
+    "6eb9d1ac-872e-4574-8846-08555748c532": {
+      "ProjectGuid": "6eb9d1ac-872e-4574-8846-08555748c532",
+      "DisplayName": "02_KomodoClaims.Repository",
+      "ColorIndex": 2
+    },
+    "dbdaef98-e481-465e-a90d-cb04667d1873": {
+      "ProjectGuid": "dbdaef98-e481-465e-a90d-cb04667d1873",
+      "DisplayName": "02_KomodoClaims.UI",
+      "ColorIndex": 3
+    },
+    "c1395ee2-764b-4058-a9d2-d6f8306f4000": {
+      "ProjectGuid": "c1395ee2-764b-4058-a9d2-d6f8306f4000",
+      "DisplayName": "03_KomodoBadges.Repository",
+      "ColorIndex": 4
+    },
+    "f4e1cad0-43f1-41f0-b0ac-ae4196b0034a": {
+      "ProjectGuid": "f4e1cad0-43f1-41f0-b0ac-ae4196b0034a",
+      "DisplayName": "03_KomodoBadges.UI",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
